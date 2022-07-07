@@ -2950,3 +2950,4 @@ def trace(self: TensorLikeType) -> TensorLikeType:
 
 import torch._refs.nn.functional
 import torch._refs.special
+import torch._refs.fft
